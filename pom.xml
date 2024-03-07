@@ -45,7 +45,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>org.example.CSVDataa</mainClass>
+                            <mainClass>org.example.CSVData</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>
