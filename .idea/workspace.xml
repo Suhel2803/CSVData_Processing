@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4df0ba39-a15e-4e30-9e17-44c0489d9b58" name="Changes" comment="committing all files">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/CSV_Project_jar/CSV_Project.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/CSV_Project_jar/CSV_Project.jar" afterDir="false" />
+    <list default="true" id="4df0ba39-a15e-4e30-9e17-44c0489d9b58" name="Changes" comment="committing changes">
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,16 +37,20 @@
     "Application.CSVData.executor": "Run",
     "JAR Application.CSV_Project.jar.executor": "Run",
     "JUnit.CSVDataTest.executor": "Run",
+    "Maven.CSV_Project [clean].executor": "Run",
+    "Maven.CSV_Project [compile].executor": "Run",
     "Maven.CSV_Project [install].executor": "Run",
+    "Maven.CSV_Project [org.apache.maven.plugins:maven-jar-plugin:3.3.0:jar].executor": "Run",
     "Maven.CSV_Project [package].executor": "Run",
     "Maven.CSV_Project [test].executor": "Run",
+    "Maven.CSV_Project [validate].executor": "Run",
     "Maven.CSV_Project [verify].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "/home/suhelksi191/IdeaProjects/CSV_Project/src/main/java/org/example/Main.java",
-    "project.structure.last.edited": "Artifacts",
+    "project.structure.last.edited": "Problems",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
   }
@@ -95,7 +98,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709789127005</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="committing changes">
+      <option name="closed" value="true" />
+      <created>1709813103938</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1709813103938</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -111,6 +122,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="committing all files" />
-    <option name="LAST_COMMIT_MESSAGE" value="committing all files" />
+    <MESSAGE value="committing changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="committing changes" />
   </component>
 </project>
